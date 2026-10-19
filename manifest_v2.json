@@ -37,9 +37,5 @@
       "versionCode": 65536
     }
   },
-  "ext": {
-    "wallpaperGenerator": {
-      "configUrl": "https://raw.githubusercontent.com/AuthorMaoKe/astrobox-resource-979876619817/main/wallpaper/wallpaper.json"
-    }
-  }
+  "ext": {}
 }
