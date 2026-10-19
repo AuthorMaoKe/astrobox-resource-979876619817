@@ -1,0 +1,45 @@
+{
+  "item": {
+    "id": "979876619817",
+    "restype": "watchface",
+    "name": "像素律动",
+    "description": "像素律动表盘，以点阵像素勾勒时间，实时呈现心率、步数，感受每一刻生命律动。\n像素律动｜复古点阵像素风格，时间与健康数据一屏尽收，让时间带着心跳节奏。像素律动表盘，用像素颗粒记录时间与身体数据，读懂属于你的每一秒律动。",
+    "preview": [
+      "media/QQ20261019-123958.png",
+      "media/QQ20261019-124008.png",
+      "media/QQ20261019-124015.png"
+    ],
+    "icon": "media/表盘介绍与海报生成 (1)-02.png",
+    "cover": "media/表盘介绍与海报生成 (1)-01.png",
+    "author": [
+      {
+        "name": "MaoKe",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官方群",
+      "url": "https://qm.qq.com/q/lHCW3WJkgU",
+      "icon": "chats-circle"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/像素律动.bin",
+      "versionCode": 65536
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/像素律动.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "wallpaperGenerator": {
+      "configUrl": "https://raw.githubusercontent.com/AuthorMaoKe/astrobox-resource-979876619817/main/wallpaper/wallpaper.json"
+    }
+  }
+}
