@@ -13,6 +13,10 @@
     "cover": "media/表盘介绍与海报生成 (1)-01.png",
     "author": [
       {
+        "name": "bandbbs_73445",
+        "bindABAccount": true
+      },
+      {
         "name": "MaoKe",
         "bindABAccount": true
       }
